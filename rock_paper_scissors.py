@@ -1,4 +1,4 @@
-# 🧠 1. Rock, Paper, Scissors Game
+# 🧠 Rock, Paper, Scissors Game
 # User plays against the computer.
 # Computer randomly picks rock/paper/scissors.
 # Simple comparison logic.

@@ -1,4 +1,4 @@
-# 🧮 6. Simple Calculator
+# 🧮 Simple Calculator
 # Input: 5 + 3 or 12 / 4
 # Outputs the result.
 # Use eval() with care or custom logic with operator module.

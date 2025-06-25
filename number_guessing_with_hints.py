@@ -1,4 +1,4 @@
-# 🎯 3. Number Guessing Game with Hints
+# 🎯 Number Guessing Game with Hints
 # Difficulty levels (Easy: 1–10, Medium: 1–50, Hard: 1–100).
 # Gives closer/farther hints like "Very close!" or "Far off!"
 

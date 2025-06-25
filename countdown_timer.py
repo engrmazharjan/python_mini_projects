@@ -1,4 +1,4 @@
-# 🕒 4. Countdown Timer
+# 🕒 Countdown Timer
 # User enters time (e.g., 1 min 30 sec), and it counts down to zero.
 # Prints each second in the console.
 
